@@ -1,1 +1,2 @@
 # odin-recipes
+Today is March 31st 2022, I restarted another recipe repo because I forgot to clone and it wasnt linking to Git hub.  I'm able to do that now that i did it a few times, also I can use terminal to make new directories, make a boiletplate html, add a list "<li>", add pictured or "img src" 
